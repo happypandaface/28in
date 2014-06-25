@@ -1,0 +1,7 @@
+create a new project with libgdx
+copy and paste the source code
+do
+# ./gradlew ios:build
+launch the iOS iPhone simulator
+do
+# ./gradlew ios:launchIosSimulator
